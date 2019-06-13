@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/convert-country-isos/static/css/main.2cce8147.chunk.css",
+    "main.js": "/convert-country-isos/static/js/main.41b5daed.chunk.js",
+    "main.js.map": "/convert-country-isos/static/js/main.41b5daed.chunk.js.map",
+    "runtime~main.js": "/convert-country-isos/static/js/runtime~main.91748124.js",
+    "runtime~main.js.map": "/convert-country-isos/static/js/runtime~main.91748124.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/convert-country-isos/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.e7d9e277.chunk.js": "/convert-country-isos/static/js/2.e7d9e277.chunk.js",
+    "static/js/2.e7d9e277.chunk.js.map": "/convert-country-isos/static/js/2.e7d9e277.chunk.js.map",
+    "index.html": "/convert-country-isos/index.html",
+    "precache-manifest.f79a8afea6ae7ab68aab9d1514715cd2.js": "/convert-country-isos/precache-manifest.f79a8afea6ae7ab68aab9d1514715cd2.js",
+    "service-worker.js": "/convert-country-isos/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/convert-country-isos/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/convert-country-isos/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/convert-country-isos/static/media/logo.5d5d9eef.svg"
+  }
+}
